@@ -89,3 +89,4 @@ func  divDifferentTypes <A: Numeric, B: Numeric> (_ firstNumber: A, _ secondNumb
 
 print (divDifferentTypes(c, d))
 
+print ("")
